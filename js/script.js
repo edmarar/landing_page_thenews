@@ -14,7 +14,7 @@ form.addEventListener('submit', (e) => {
 
   let content = document.getElementById('content')
 
-  let carregando = `<p>carregando...</p>`
+  let carregando = `<img src='./assets/loader.gif' id='loader'></img>`
 
   let pronto = `<p>pronto</p>`
 
