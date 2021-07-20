@@ -16,7 +16,7 @@ form.addEventListener('submit', (e) => {
 
   let carregando = `<img src='./assets/loader.gif' id='loader'></img>`
 
-  let pronto = `<p>pronto</p>`
+  let pronto = `<p>Cadastro realizado com sucesso!</p>`
 
   content.innerHTML = carregando
 
