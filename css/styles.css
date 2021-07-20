@@ -33,6 +33,10 @@ html {
 		margin-right: 0.7rem;
 	}
 	
+	#loader {
+		margin-left: 7.5vh;
+	}
+
 	.contents {
 		margin-left: 20px;
 		margin-right: 20px;
@@ -88,7 +92,7 @@ html {
 	}
 
 	#loader {
-		margin-left: 2vh;
+		margin-left: 10vh;
 	}
 
 	.container {
@@ -130,7 +134,7 @@ html {
 	}
 }
 
-@media (min-width: 980px) {
+@media (min-width: 1200px) {
 	html {
 		font-size: 20px;
 	}
@@ -151,7 +155,7 @@ html {
 	}	
 
 	#loader {
-		margin-left: 15vh;
+		margin-right: 10vh;
 	}
 
 	.container {
